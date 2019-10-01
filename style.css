@@ -33,11 +33,11 @@ textarea{
   border-radius: 15px;
 }
 
-.row {
+/* .row {
   white-space: pre-wrap;
   height: 50px;
   border-style: 1px solid white;;
-}
+} */
 
 .hour {
   background-color: #ffffff;
